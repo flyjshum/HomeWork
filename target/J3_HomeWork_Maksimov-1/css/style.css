@@ -1,0 +1,15 @@
+.msgError {
+    color:red;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.msgOK {
+    color:green;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.btnMainForm {
+    font-size: 18px;
+} 
